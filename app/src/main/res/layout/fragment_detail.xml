@@ -25,4 +25,11 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         tools:text="@string/affogato_desc" />
+    <Button
+        android:id="@+id/back_button"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        style="@style/button"
+        android:text="@string/back_button" />
 </LinearLayout>
